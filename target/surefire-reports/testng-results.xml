@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="APISuite" duration-ms="7288" started-at="2021-04-08T18:33:06Z" finished-at="2021-04-08T18:33:13Z">
+    <groups>
+    </groups>
+    <test name="GetAPITests" duration-ms="7288" started-at="2021-04-08T18:33:06Z" finished-at="2021-04-08T18:33:13Z">
+      <class name="getAPITests.IntigralAPITests">
+        <test-method status="PASS" signature="verifyFailResponseDetails()[pri:0, instance:getAPITests.IntigralAPITests@617c74e5]" name="verifyFailResponseDetails" duration-ms="3354" started-at="2021-04-08T18:33:06Z" finished-at="2021-04-08T18:33:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFailResponseDetails -->
+        <test-method status="PASS" signature="verifyFailResponseStatus()[pri:0, instance:getAPITests.IntigralAPITests@617c74e5]" name="verifyFailResponseStatus" duration-ms="315" started-at="2021-04-08T18:33:09Z" finished-at="2021-04-08T18:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFailResponseStatus -->
+        <test-method status="PASS" signature="verifyGetAPIResponseContents()[pri:0, instance:getAPITests.IntigralAPITests@617c74e5]" name="verifyGetAPIResponseContents" duration-ms="779" started-at="2021-04-08T18:33:10Z" finished-at="2021-04-08T18:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetAPIResponseContents -->
+        <test-method status="PASS" signature="verifyGetResponseKeys()[pri:0, instance:getAPITests.IntigralAPITests@617c74e5]" name="verifyGetResponseKeys" duration-ms="1800" started-at="2021-04-08T18:33:10Z" finished-at="2021-04-08T18:33:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetResponseKeys -->
+        <test-method status="PASS" signature="verifyGetResponseLocalizedText()[pri:0, instance:getAPITests.IntigralAPITests@617c74e5]" name="verifyGetResponseLocalizedText" duration-ms="517" started-at="2021-04-08T18:33:12Z" finished-at="2021-04-08T18:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyGetResponseLocalizedText -->
+        <test-method status="PASS" signature="verifySuccessStatusResponseCode()[pri:0, instance:getAPITests.IntigralAPITests@617c74e5]" name="verifySuccessStatusResponseCode" duration-ms="483" started-at="2021-04-08T18:33:13Z" finished-at="2021-04-08T18:33:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySuccessStatusResponseCode -->
+      </class> <!-- getAPITests.IntigralAPITests -->
+    </test> <!-- GetAPITests -->
+  </suite> <!-- APISuite -->
+</testng-results>
